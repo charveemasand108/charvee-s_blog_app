@@ -1,9 +1,6 @@
-# Aryan’s BlogHub
+# Charvee’s BlogHub
 
 A minimal, fast blog front-end built with Vite + React + TypeScript and Tailwind CSS. Deployed on Vercel.
-
-> **Live demo:** [blog-app-rho-one-33.vercel.app](https://blog-app-rho-one-33.vercel.app)  
-> **Source code:** [github.com/Aryan27-max/Blog_app](https://github.com/Aryan27-max/Blog_app)
 
 ---
 
